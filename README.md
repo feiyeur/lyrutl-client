@@ -1,3 +1,5 @@
 # lyrutl-client
 
-WIP, this does nothing at the moment as the server is not yet developed.
+Apple Music-like lyric viewer
+
+There was a system playback listening server before. i have failed to code it soo
